@@ -1,0 +1,11 @@
+# List of telescopes by brand and type
+
+celestron:
+  SCT:
+    - C5
+    - C8 
+    - C8 Ultima
+    - SE8
+orion:
+  Refractor:
+    - SpaceProbe 3 inch
