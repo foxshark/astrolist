@@ -1,11 +1,41 @@
-# List of telescopes by brand and type
+# List of telescopes by brand and type, organized by indendation  
+# Dash character for list/bullet items
+# Hashtag/pound character for comments
 
-celestron:
-  SCT:
+Celestron:
+  Schmidt–Cassegrain:
     - C5
-    - C8 
-    - C8 Ultima
-    - SE8
-orion:
+    - C8
+      versions:
+        # Double arm forks
+        - C8 (classic) # orange tube, sand cast
+        - Super C8 # black tube
+        - SPC8 # Mounted on Vixen Super Polaris GEM
+        - Compustar
+        - Powerstar
+        - C8 Ultima
+        - Ultima 2000
+        - Celestar 8 # economy version, "wedge-pod" combo tripod
+        - CPC 800
+        # Single arm forks
+        - NexStar 8 # Grey
+        - 8SE # Orange
+    - Edge 8
+  Newtonian:
+    - C6N # Vixen Polaris mount
+Meade:
   Refractor:
-    - SpaceProbe 3 inch
+    - ETX-60
+    - ETX-70
+    - ETX-80
+  Maksutov-Cassegrain:
+    - ETX-90
+      versions:
+        - ETX-90 M # original? clock drive RA, no manual dec
+        - ETX-90 RA # same as above?
+        - ETX-90 EC
+  Schmidt–Cassegrain:
+    - LX-90 12 inch
+Orion:
+  Refractor:
+    - SpaceProbe 3 inch # CG-1 GEM
