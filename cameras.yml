@@ -1,0 +1,28 @@
+# List of cameras by brand and type, organized by indendation  
+# Dash character for list/bullet items
+# Hashtag/pound character for comments
+
+Celestron:
+  Planetary:
+    - NexImage 10
+  Guide:
+    - NexGuide # combo guide camera & ST4 computer, does not output frames
+  Special:
+    - StarSense Auto Align # Acombo camera & short scope, does not output frames
+Meade:
+  Planetary:
+    - LPI-G Color
+    - LPI-G Monochrome
+    - LPI-G Advanced Color
+    - LPI-G Advanced Monochrome
+  DSO:
+    - Deep Sky Imager IV Color
+ZWO:
+  Planetary:
+    - ASI290MC
+  Guide:
+    - ASI120MM
+    - ASI120MM-S
+    - ASI120MM Mini
+  DSO:
+    - ASI1600MM
